@@ -1,0 +1,19 @@
+{
+  "name": "vue-express-mongodb",
+  "version": "1.0.0",
+  "description": "full stack vue and express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammy-prog/vue-express-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammy-prog/vue-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/sammy-prog/vue-express-mongodb#readme"
+}
